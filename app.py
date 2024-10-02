@@ -119,7 +119,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("YouTube Comments Extractor")
+st.title("COMMENTS-HARVESTER")
 
 video_id = st.text_input("Enter YouTube Video ID")
 
